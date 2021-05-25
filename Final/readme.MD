@@ -14,4 +14,3 @@ Memory (4 words):
 The sorted list in the registers: 200, 200, 15, 3
 The addresses in the address registers: 4, 2, 1, 3
 
-Input data in dat file are for initializing the memory.
